@@ -4,6 +4,7 @@
 Developed a chat application which can only be operated by using specific username & passwords which are mentioned down below. 
 <br>
 ### Features
+- Increases the exclusivity
 - User can check which other users are active.
 - Check whether the message is seen by others or not
 - Make chatrooms and invite users
