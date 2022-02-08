@@ -5,12 +5,13 @@
 
 #### Architecture Diagram
 
-Affix an image of the flow diagram/architecture diagram of the solution
+![Architecture Diagram](https://user-images.githubusercontent.com/78037846/152985006-ef70bc92-d68d-4969-8095-8000e8edea70.PNG)
 
-#### Technical Description
 
-* **Frontend**-React 
-* **Backend**-<a href="https://chatengine.io/"> Chat Engine</a> 
+### Technical Description
+
+* **Frontend** - React 
+* **Backend** - <a href="https://chatengine.io/"> Chat Engine</a> 
 
 ### Setup and Installation
 
@@ -32,13 +33,16 @@ npm @ant-design/icons@4.7.0 axios@0.25.0 react-chat-engine@1.11.22
 ````````````````````
 npm start
 ````````````````````
-
+## Accessing the application
 ### Username & Passwords (case sensitive)
-- aditya   1   **(ADMIN)**
-- dhanush  2
-- abhay    3
-- akshay   4
-- mahesh   5
+
+|Username| Password|
+|-----------|-----|
+| aditya | 1 |
+| dhanush | 2 |
+| abhay | 3 |
+| akshay | 4 |
+| mahesh | 5 |
 
 
 ## Screenshots
@@ -51,7 +55,7 @@ npm start
 ![2](https://user-images.githubusercontent.com/78037846/152940799-460c1858-579b-4f42-aa10-0cb07d1864a3.PNG)
 
 ### Demonstration Video 
-Share link of your application demostration video. 
+Watch the video by clicking <a href="https://youtu.be/Zr61NFAT5b4">here</a> 
 
 ### Team Members
 List of team member names and email IDs with their contributions.
