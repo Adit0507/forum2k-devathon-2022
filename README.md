@@ -1,9 +1,16 @@
 ## Aditya - Forum 2K Chat Application
 
 ### Solution Description
+Developed a chat application which can only be operated by using specific username & passwords which are mentioned down below. 
+<br>
+### Features
+- User can check which other users are active.
+- Check whether the message is seen by others or not
+- Make chatrooms and invite users
+<br>
 
 
-#### Architecture Diagram
+### Architecture Diagram
 
 ![Architecture Diagram](https://user-images.githubusercontent.com/78037846/152985006-ef70bc92-d68d-4969-8095-8000e8edea70.PNG)
 
@@ -57,8 +64,8 @@ npm start
 ### Demonstration Video 
 Watch the video by clicking <a href="https://youtu.be/Zr61NFAT5b4">here</a> 
 
-### Team Members
-List of team member names and email IDs with their contributions.
+### Team
+
 |Member Name|Email|Contribution|
 |-----------|-----|------------|
 |Aditya Kumar Singh|adi05072002@gmail.com| Frontend, UI |
