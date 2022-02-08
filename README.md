@@ -1,14 +1,7 @@
-## Team Name \<Your Team Name> - \<Your Project Type(App/Web)>
-
-The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
-
-The following created sections in this README.md need to be duly filled, highlighting the denoted points for the solution/implementation. 
-
-**Please feel free to create further sub-sections in this markdown.** The idea is to understand all the particulars of your solution in a singular document.
+## Aditya - Forum 2K Chat Application
 
 ### Solution Description
 
-Explain your solution to the problem in detail here.
 
 #### Architecture Diagram
 
@@ -16,15 +9,46 @@ Affix an image of the flow diagram/architecture diagram of the solution
 
 #### Technical Description
 
-An overview of:
-* What technologies/versions were used
+* **Frontend**-React 
+* **Backend**-<a href="https://chatengine.io/"> Chat Engine</a> 
 
-* Setup/Installations required to run the solution
+### Setup and Installation
 
-* Instructions to run the submitted code
+### Instructions to run the app in your local system
 
-### Screenshots
-Affix the relevant screenshots of the developed project here.
+- Download the code as a zip file
+- Extract the file
+
+````````````````````
+cd Application Code
+````````````````````
+
+````````````````````
+npm install
+````````````````````
+````````````````````
+npm @ant-design/icons@4.7.0 axios@0.25.0 react-chat-engine@1.11.22
+````````````````````
+````````````````````
+npm start
+````````````````````
+
+### Username & Passwords (case sensitive)
+- aditya   1   **(ADMIN)**
+- dhanush  2
+- abhay    3
+- akshay   4
+- mahesh   5
+
+
+## Screenshots
+### Login Page
+
+![1](https://user-images.githubusercontent.com/78037846/152939681-dcbae83d-4733-40db-aa4e-30686c1e1a72.PNG)
+
+### Main Page
+
+![2](https://user-images.githubusercontent.com/78037846/152940799-460c1858-579b-4f42-aa10-0cb07d1864a3.PNG)
 
 ### Demonstration Video 
 Share link of your application demostration video. 
@@ -33,10 +57,8 @@ Share link of your application demostration video.
 List of team member names and email IDs with their contributions.
 |Member Name|Email|Contribution|
 |-----------|-----|------------|
-|Member 1|mem1@example.com|Something important|
-|Member 2|mem2@example.com|Something important|
-|Member 3|mem3@example.com|Something important|
-|Member 4|mem4@example.com|Something important|
+|Aditya Kumar Singh|adi05072002@gmail.com| Frontend, UI |
+
 
 ### References
-Affix links to the online tools/repositories/blogs etc., which helped you along the development of the project.
+- <a href="https://chatengine.io/"> Chat Engine</a> 
